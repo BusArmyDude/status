@@ -222,9 +222,9 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: archives.jenkins.io
+    - name: bus-army-dude.github.io/bus-army-dude/index.html
       description: |
-        Jenkins mirror archives
+        homepage that has all the components
       #category: Rackspace
       category: "[ a -> f ]"
       #partial: http_response_time/archives.jenkins.io
